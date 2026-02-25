@@ -41,7 +41,4 @@ A developer-first TypeScript toolkit that brings "Programmable Transaction Block
 
 ---
 
-### 📜 Philosophy
-Inspired by the synergy of MegaETH’s **Meka** (technological strength) and **Fluffey** (velocity and culture), MegaFlow Labs builds "Hardened Infrastructure" that feels as fluid as the real-time world it powers.
-
 © 2026 MegaFlow Labs. Built for the Real-Time World.
