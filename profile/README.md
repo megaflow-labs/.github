@@ -36,7 +36,7 @@ A developer-first TypeScript toolkit that brings "Programmable Transaction Block
 
 ## 🔗 Connect With Us
 - **Website:** [megaflow.space](https://megaflow.space)
-- **Documentation:** [docs.megaflow.space](https://docs.megaflow.space)
+- **Documentation:** [megaflow.space/docs]([https://docs.megaflow.space](https://megaflow.space/docs))
 - **Email:** [hello@megaflow.space](mailto:hello@megaflow.space)
 
 ---
