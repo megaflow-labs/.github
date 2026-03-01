@@ -31,7 +31,7 @@ A developer-first TypeScript toolkit that brings "Programmable Transaction Block
 | **Safety** | Non-Custodial | Atomic Rollbacks |
 
 ## 📂 Repository Overview
-- **[sdk](https://github.com/megaflow-labs/sdk):** TypeScript libraries and developer tooling.
+- **[sdk](https://github.com/megaflow-labs/megaflow-sdk):** TypeScript libraries and developer tooling.
 - **[examples](https://github.com/megaflow-labs/examples):** Reference implementations for various dApp use cases.
 
 ## 🔗 Connect With Us
