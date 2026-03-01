@@ -22,13 +22,6 @@ A developer-first TypeScript toolkit that brings "Programmable Transaction Block
 - **Fluent API:** Build complex DeFi or Gaming flows with a readable, chainable syntax.
 - **Pre-flight Simulation:** Instant local simulation to ensure transaction success before broadcast.
 
-## 🚀 Performance Metrics
-| Metric | Capability | Target |
-| :--- | :--- | :--- |
-| **Transaction Latency** | < 10ms | Real-time Synchronization |
-| **Execution Throughput** | Atomic Batches | 100k+ TPS Ready |
-| **State Impact** | Minimal/Stateless | Gas Efficiency |
-| **Safety** | Non-Custodial | Atomic Rollbacks |
 
 ## 📂 Repository Overview
 - **[sdk](https://github.com/megaflow-labs/megaflow-sdk):** TypeScript libraries and developer tooling.
