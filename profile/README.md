@@ -5,9 +5,6 @@ MegaFlow Labs is a research and development collective focused on building ultra
 
 ---
 
-## 🌐 Our Vision
-The shift to real-time blockchains requires a fundamental rethink of how transactions are built and executed. MegaFlow abstracts the complexities of the EVM into programmable, atomic execution flows, enabling developers to harness the full 100k+ TPS potential of MegaETH without the friction of sequential cüzdan confirmations.
-
 ## 🛠 Core Infrastructure
 
 ### ⚙️ MegaRouter (Core)
